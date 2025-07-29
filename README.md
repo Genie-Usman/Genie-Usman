@@ -50,5 +50,5 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode" />
   </a>
-  <img src="https://img.icons8.com/ios-filled/50/1e1e2f/mongoose.png" alt="Tool Icon" width="38" style="margin-left: 10px;" />
+  <img src="https://img.icons8.com/?size=48&id=gKfcEStXI1Hm&format=png&color=000000" alt="Tool Icon" width="38" style="margin-left: 10px;" />
 </p>
