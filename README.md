@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer from Sargodha, Pakistan</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Genie-Usman&label=Profile%20views&color=0f9&style=flat" alt="Genie-Usman" />
+  <img src="https://komarev.com/ghpvc/?username=Genie-Usman&label=Profile%20views&color=0e75b6&style=flat" alt="Genie-Usman" />
 </p>
 
 <a target="_blank" align="center">
@@ -10,7 +10,7 @@
 </a>
 
 - 🌱 I’m currently working on an ATS System  
-- 👨‍💻 Some of my projects are available at <a href="https://codedbyusman.vercel.app" target="_blank">codedbyusman.vercel.app</a>  
+- 👨‍💻 Some of my projects are available at <a href="https://codedbyusman.vercel.app" target="_blank">https://codedbyusman.vercel.app</a>  
 - 🤝 I'm open to new job opportunities and freelance work  
 - 📫 Reach me at **musman7533@gmail.com**
 
@@ -29,8 +29,8 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="<img width="512" height="512" alt="html 5" src="https://github.com/user-attachments/assets/e105905b-81f8-480a-afde-bcabd82b6de9"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-sass-a-style-sheet-language-extended-css-logo-shadow-tal-revivo.png" alt="Sass"/>
