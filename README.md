@@ -46,8 +46,7 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode&perline=10" />
   </a>
-  <img src="https://img.icons8.com/?size=100&id=gKfcEStXI1Hm&format=png&color=000000" alt="Tool Icon" />
 </p>
