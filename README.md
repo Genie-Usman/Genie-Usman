@@ -17,7 +17,7 @@
         <strong>🌱 I’m currently working on an</strong>
         ATS System<br><br>
         <strong>👨‍💻 Some of my projects are available at </strong>
-        <a href="https://codedbyusman.vercel.app" target="_blank">https://codedbyusman.vercel.app</a><br><br>
+        <a href="https://codedbyusman.vercel.app" target="_blank"><strong>https://codedbyusman.vercel.app</strong></a><br><br>
         <strong>🤝 I'm open to</strong>
         Freelance & Job Opportunities
       </p>
@@ -33,12 +33,11 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/genie-usman/" target="_blank">
-    <img src="https://img.icons8.com/doodle/38/linkedin--v2.png" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/genie-usman">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/_.usmanrajput" target="_blank">
-    <img src="https://img.icons8.com/doodle/38/instagram-new--v2.png" alt="Instagram" />
+  <a href="https://www.instagram.com/_.usmanrajput">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
