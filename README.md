@@ -10,7 +10,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="70%">
       <p>
         <strong>📧 Reach me at</strong>
         <a href="mailto:musman7533@gmail.com">musman7533@gmail.com</a><br><br>
@@ -22,7 +22,7 @@
         Freelance & Job Opportunities
       </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="coding gif">
     </td>
   </tr>
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode&perline=10" />
   </a>
   <img src="https://img.icons8.com/?size=48&id=gKfcEStXI1Hm&format=png&color=000000" alt="Tool Icon" width="38" style="margin-left: 10px; background-color: white; />
 </p>
