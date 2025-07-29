@@ -40,5 +40,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode" />
     <img src="https://img.icons8.com/?size=48&id=gKfcEStXI1Hm&format=png&color=000000" alt="Tool Icon" width="38" style="margin-left: 8px;" />
+    
   </a>
 </p>
