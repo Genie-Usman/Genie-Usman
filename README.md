@@ -10,9 +10,6 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="coding gif">
-    </td>
     <td width="50%">
       <p>
         <strong>Reach me at</strong>
@@ -24,6 +21,9 @@
         <strong>🤝 I'm open to</strong>
         Freelance & Job Opportunities
       </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="coding gif">
     </td>
   </tr>
 </table>
@@ -50,5 +50,5 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode" />
   </a>
-  <img src="https://img.icons8.com/?size=48&id=gKfcEStXI1Hm&format=png&color=000000" alt="Tool Icon" width="38" style="margin-left: 10px;" />
+  <img src="https://icons8.com/icon/gKfcEStXI1Hm/mongoose" alt="Tool Icon" width="38" style="margin-left: 10px;" />
 </p>
