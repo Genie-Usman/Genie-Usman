@@ -17,7 +17,7 @@
         <strong>🌱 I’m currently working on an</strong>
         ATS System<br><br>
         <strong>👨‍💻 Some of my projects are available at </strong>
-        <a href="https://www.usmanrajput.com/" target="_blank"><strong>www.usmanrajput.com</strong></a><br><br>
+        <a href="https://www.usmanrajput.com/" target="_blank"><strong>usmanrajput.com</strong></a><br><br>
         <strong>🤝 I'm open to</strong>
         Freelance & Job Opportunities
       </p>
