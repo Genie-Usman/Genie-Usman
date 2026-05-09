@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, 👋 I'm <a href="usmanrajput.com" target="_blank">Usman</a>
+  Hi, 👋 I'm <a href="https://www.usmanrajput.com/" target="_blank">Usman</a>
 </h1>
 
 <h3 align="center">Full Stack Web Developer from Sargodha, Pakistan</h3>
@@ -17,7 +17,7 @@
         <strong>🌱 I’m currently working on an</strong>
         ATS System<br><br>
         <strong>👨‍💻 Some of my projects are available at </strong>
-        <a href="https://codedbyusman.vercel.app" target="_blank"><strong>https://codedbyusman.vercel.app</strong></a><br><br>
+        <a href="https://www.usmanrajput.com/" target="_blank"><strong>www.usmanrajput.com</strong></a><br><br>
         <strong>🤝 I'm open to</strong>
         Freelance & Job Opportunities
       </p>
