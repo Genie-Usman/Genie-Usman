@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, 👋 I'm <a href="https://codedbyusman.vercel.app/" target="_blank">Usman</a>
+  Hi, 👋 I'm <a href="usmanrajput.com" target="_blank">Usman</a>
 </h1>
 
 <h3 align="center">Full Stack Web Developer from Sargodha, Pakistan</h3>
